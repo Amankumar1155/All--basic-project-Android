@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InformationPortal</string>
+    <string-array name="courses">
+        <item>Select Your Course</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Swift</item>
+        <item>HTML</item>
+    </string-array>
+
+    <string-array name="faculty">
+        <item>Select Faculty</item>
+        <item>Mr. Deepak</item>
+        <item>Mr. Gaurav</item>
+        <item>Mr. Akshar</item>
+        <item>Mr. Subhadip</item>
+        <item>Mr. Bhumik</item>
+        <item>Mr. Shudhanshu</item>
+    </string-array>
+</resources>

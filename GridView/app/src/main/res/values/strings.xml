@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grid View</string>
+    <string-array name="Badminton_Players">
+        <item>Lin Dan </item>
+        <item>Lakshya Sen</item>
+        <item>Lee Chong Wei</item>
+        <item>Viktor Axelson</item>
+        <item>Kidambi Srikant</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">spinner to String Intent</string>
+    <string-array name="Apps">
+        <item>Select first</item>
+        <item>whatsap</item>
+        <item>facebook</item>
+        <item>instagram</item>
+    </string-array>
+ <string-array name="paths">
+     <item>select first</item>
+     <item>com.whatsap</item>
+     <item>com.facebook.katana</item>
+     <item>com.instagram.android</item>
+
+
+ </string-array>
+</resources>

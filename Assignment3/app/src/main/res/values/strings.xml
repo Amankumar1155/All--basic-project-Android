@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string-array name="data">
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>B.com</item>
+    </string-array>
+    <string-array name="data2">
+        <item>Xyz</item>
+        <item>Abc</item>
+        <item>Fgh</item>
+    </string-array>
+
+</resources>

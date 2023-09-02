@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StaticList</string>
+
+    <string-array name="versions">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>Honeycomb</item>
+        <item>IceCreamSandwich</item>
+        <item>JellyBean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+        <item>Android 11</item>
+        <item>Android 12</item>
+    </string-array>
+
+</resources>

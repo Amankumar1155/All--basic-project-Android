@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment on Spinner</string>
+    <string-array name="Places">
+       <item>Select Place</item>
+        <item>Delhi</item>
+        <item>Lucknow</item>
+        <item>Uttarakhand</item>
+        <item>Banglore</item>
+    </string-array>
+    <string-array name="values">
+        <item>Description</item>
+        <item>MoMo</item>
+        <item>Tunde Kabab</item>
+        <item>Bal Mithai</item>
+        <item>Dosa</item>
+
+
+    </string-array>
+
+</resources>

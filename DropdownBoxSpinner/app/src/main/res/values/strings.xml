@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DropdownBox(Spinner)</string>
+    <string-array name="Players">
+        <item>Select Player Name</item>
+        <item>Lin Dan</item>
+        <item>Lee Chong Wei</item>
+        <item>KD Srikant</item>
+        <item>Viktor Akselson</item>
+        <item>Lakshya Sen</item>
+
+    </string-array>
+</resources>

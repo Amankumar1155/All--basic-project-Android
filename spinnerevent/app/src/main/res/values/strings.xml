@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinnerevent</string>
+    <string-array name="places">
+        <item>select place</item>
+        <item>knowledge park</item>
+        <item>rohini</item>
+        <item>buland</item>
+        <item>noida</item>
+        <item>nepal</item>
+    </string-array>
+</resources>

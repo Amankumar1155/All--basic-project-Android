@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">autocompletetext</string>
+    <string-array name="Places">
+        <item>agra</item>
+        <item>agra</item>
+        <item>gr noida</item>
+        <item>gr noida</item>
+        <item>noida</item>
+        <item>ambala</item>
+        <item>ambala</item>
+        <item>nanitaal</item>
+        <item>amarnath</item>
+        <item>amarnath</item>
+    </string-array>
+</resources>

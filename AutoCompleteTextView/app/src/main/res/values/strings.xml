@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Auto Complete TextView</string>
+    <string-array name="Places">
+        <item>Badrinath</item>
+        <item>Kedarnath</item>
+        <item>Gangotri</item>
+        <item>Yamnotri</item>
+        <item>Kedarkantha</item>
+        <item>Tungnath</item>
+        <item>Kartik Swami Mandir</item>
+        <item>Neel Kanth</item>
+    </string-array>
+</resources>

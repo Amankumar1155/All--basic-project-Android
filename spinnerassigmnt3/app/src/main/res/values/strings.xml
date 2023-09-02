@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MySpinner</string>
+    <string-array name="values">
+        <item>Select Country</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>nepal</item>
+        <item>sri lanka</item>
+
+
+
+    </string-array>
+    <string-array name="desc">
+        <item>Please Select Country</item>
+        <item>brazil hdgdjfhvkfbvsgk ysfgksdvy vgkf vskdvgskdvksyusgvsf vysdfv sdfy</item>
+        <item>India sgdhdddhfvbf vfyvgkfsgvgsd gvs ksdy vgks s </item>
+        <item>nepal hdvksmsgdv k sv k vbsv vgg</item>
+        <item>sri lanka dhvbskvjbksv s hjnvbhfuvbhfs vhhgsvhugvhsgvsh</item>
+
+    </string-array>
+
+
+
+</resources>

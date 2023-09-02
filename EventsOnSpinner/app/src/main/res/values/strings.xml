@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventsOnSpinner</string>
+    <string-array name="Food">
+        <item>Chole Bhature</item>
+        <item>Sambhar Vada</item>
+        <item>Pizza</item>
+        <item>Burger</item>
+    </string-array>
+</resources>

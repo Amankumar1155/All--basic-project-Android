@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">spinnerto open app</string>
+    <string-array name="APP">
+        <item>Select App</item>
+        <item>Instagram</item>
+        <item>whatsapp</item>
+        <item>PlayStore</item>
+        <item>Gallery</item>
+
+
+
+
+    </string-array>
+</resources>

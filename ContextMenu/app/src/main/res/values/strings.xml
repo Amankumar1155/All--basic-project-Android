@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+
+
+    <string-array name="Food">
+
+        <item>Chole Bhature</item>
+        <item>Chole Kulche</item>
+        <item>Daal Makhni </item>
+        <item>Paneer Butter Masala</item>
+        <item>Paneer Butter Naan</item>
+        <item>Badam Shake</item>
+    </string-array>
+</resources>
